@@ -1,6 +1,6 @@
 # Trabajo Final EDP 
 
-Andrea Carvajal Maldonada
+Andrea Carvajal Maldonado
 
 
 Sofía Saldarriaga Sánchez
